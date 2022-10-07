@@ -827,8 +827,8 @@
     },
     {
       "fullPath": "presets/4.3/modes/mxyzptlk-modes-v1.txt",
-      "hash": "0b8c1442126ea721f22fa9195498ca8b4fb6e9e5242812b9bca58f6dca153e02",
-      "title": "Default 4.3 Modes and Adjustment settings",
+      "hash": "5db3cade57b9d10a53fe1f02a8bf7beadf9f4f38ca375b39f46a30dfa870bbeb",
+      "title": "mxyzptlk-modes-v1",
       "firmware_version": [
         "4.3"
       ],
