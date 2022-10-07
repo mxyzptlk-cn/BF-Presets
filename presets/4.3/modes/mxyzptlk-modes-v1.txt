@@ -1,4 +1,4 @@
-#$ TITLE: Default 4.3 Modes and Adjustment settings
+#$ TITLE: mxyzptlk-modes-v1
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: MODES
 #$ STATUS: OFFICIAL
