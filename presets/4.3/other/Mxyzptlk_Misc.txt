@@ -1,0 +1,19 @@
+#$ TITLE: ExpressLRS Passthrough Betaflight Settings
+#$ FIRMWARE_VERSION: 3.5
+#$ FIRMWARE_VERSION: 4.2
+#$ FIRMWARE_VERSION: 4.3
+#$ STATUS: OFFICIAL
+#$ CATEGORY: OTHER
+#$ KEYWORDS: ELRS, Passthrough, Configure, utility
+#$ AUTHOR: Mxyzptlk
+#$ DESCRIPTION: Mxyzptlk's General Settings..
+
+
+feature -TELEMETRY
+feature -RX_PARALLEL_PWM
+beacon RX_LOST
+beacon RX_SET
+map TAER1234
+set serialrx_provider = CRSF
+set yaw_motors_reversed = ON
+set small_angle = 180

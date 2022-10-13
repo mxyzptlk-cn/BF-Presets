@@ -1,0 +1,33 @@
+#$ TITLE: UAV Tech - Analog
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OSD
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: analog
+#$ AUTHOR: Mxyzptlk
+
+#$ PARSER: MARKED
+
+#$ DESCRIPTION: 
+#$ DESCRIPTION: OSD Elements Include:
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION: Vbat, Amps, mAh drawn, Armed Time, Time Remaining, VTX Channel, VTX Power, Uplink Power, RSSI, etc...
+
+
+set osd_warn_batt_not_full = OFF
+set osd_vbat_pos = 354
+set osd_rssi_pos = 506
+set osd_link_quality_pos = 2546
+set osd_link_tx_power_pos = 39
+set osd_rssi_dbm_pos = 2553
+set osd_tim_2_pos = 2536
+set osd_flymode_pos = 2085
+set osd_throttle_pos = 2105
+set osd_vtx_channel_pos = 2092
+set osd_current_pos = 417
+set osd_craft_name_pos = 2080
+set osd_home_dist_pos = 56
+set osd_compass_bar_pos = 266
+set osd_warnings_pos = 14730
+set osd_avg_cell_voltage_pos = 2528
+set osd_flip_arrow_pos = 2286
+set osd_stat_endbatt = ON
