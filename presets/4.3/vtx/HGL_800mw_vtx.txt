@@ -6,7 +6,7 @@
 #$ KEYWORDS:  vtx, vtx table
 #$ AUTHOR: Mxyzptlk
 #$ DESCRIPTION: ----------
-#$ DESCRIPTION: 化骨龙800mw图传
+#$ DESCRIPTION: 化骨龙800mw图传设置
 
 # vtxtable
 vtxtable bands 5

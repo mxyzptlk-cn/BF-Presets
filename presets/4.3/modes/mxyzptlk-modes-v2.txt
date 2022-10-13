@@ -1,4 +1,4 @@
-#$ TITLE: Mxyzptlk-modes-v1
+#$ TITLE: Mxyzptlk-modes-v2
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: MODES
 #$ STATUS: OFFICIAL
