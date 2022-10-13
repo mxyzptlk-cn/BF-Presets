@@ -827,9 +827,9 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/modes/mxyzptlk-modes-v1.txt",
-      "hash": "0d54ac3ebe3a3f90644a84934dadb818271aeb351a7d5fac0fc01cc519bd66d6",
-      "title": "Mxyzptlk-modes-v1",
+      "fullPath": "presets/4.3/modes/mxyzptlk-modes-v2.txt",
+      "hash": "7ef3876d42df8a4e557bdb39987fa320b6519b79ff648d978ff2273115cf6ec2",
+      "title": "Mxyzptlk-modes-v2",
       "firmware_version": [
         "4.3"
       ],
@@ -865,9 +865,9 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/osd/Mxyzptlk_Analog.txt",
-      "hash": "5f4cf60100de62ba590ae4599a2a38ef623c36866db70dcda6374286f0e1e623",
-      "title": "Mxyzptlk_Analog",
+      "fullPath": "presets/4.3/osd/Mxyzptlk_Analog-V2.txt",
+      "hash": "244ac5bdc6484d1267cd80e3301ce343f267931b32124817cb55a7809b989787",
+      "title": "Mxyzptlk_Analog_OSD",
       "firmware_version": [
         "4.3"
       ],
@@ -985,9 +985,9 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/other/Mxyzptlk_Misc.txt",
-      "hash": "bca7ba8a517032a6beb2613e7174311d5095c3714ff87b120d3a09657ff20806",
-      "title": "Mxyzptlk_Misc",
+      "fullPath": "presets/4.3/other/Mxyzptlk_Misc_V2.txt",
+      "hash": "f248972112c345ebddac99efb6e976edd4910622426720e4be16d5a025b873aa",
+      "title": "Mxyzptlk_Misc_V2",
       "firmware_version": [
         "3.5",
         "4.2",
@@ -3179,7 +3179,7 @@
     },
     {
       "fullPath": "presets/4.3/vtx/HGL_800mw_vtx.txt",
-      "hash": "f6f35eef509a127da028dd5d7a7e4e4829b4ca2fc9fd4d049a8a04194240f916",
+      "hash": "57e6f4bf53a5b2d9f77651c1f8669181eacdea46ab37896813342a9ad8a80a61",
       "title": "HGL_800mw_vtx",
       "firmware_version": [
         "4.2",
