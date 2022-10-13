@@ -1,4 +1,4 @@
-#$ TITLE: ExpressLRS Passthrough Betaflight Settings
+#$ TITLE: Mxyzptlk_Misc
 #$ FIRMWARE_VERSION: 3.5
 #$ FIRMWARE_VERSION: 4.2
 #$ FIRMWARE_VERSION: 4.3

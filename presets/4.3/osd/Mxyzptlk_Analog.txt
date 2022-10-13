@@ -1,4 +1,4 @@
-#$ TITLE: UAV Tech - Analog
+#$ TITLE: Mxyzptlk_Analog
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
