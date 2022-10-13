@@ -828,7 +828,7 @@
     },
     {
       "fullPath": "presets/4.3/modes/mxyzptlk-modes-v1.txt",
-      "hash": "15ebaad2a72f1d7b14db910ddb513d5310473387f63be2cb8ddc8882f4a5863f",
+      "hash": "0d54ac3ebe3a3f90644a84934dadb818271aeb351a7d5fac0fc01cc519bd66d6",
       "title": "Mxyzptlk-modes-v1",
       "firmware_version": [
         "4.3"
@@ -844,7 +844,7 @@
         "aux",
         "switch"
       ],
-      "author": "Betaflight",
+      "author": "Mxyzptlk",
       "priority": 0
     },
     {
