@@ -866,8 +866,8 @@
     },
     {
       "fullPath": "presets/4.3/osd/Mxyzptlk_Analog.txt",
-      "hash": "4f67ac2d260f879b09411bff9d7b6345c231b95e6186c45191898ce0706d89d4",
-      "title": "UAV Tech - Analog",
+      "hash": "5f4cf60100de62ba590ae4599a2a38ef623c36866db70dcda6374286f0e1e623",
+      "title": "Mxyzptlk_Analog",
       "firmware_version": [
         "4.3"
       ],
@@ -986,8 +986,8 @@
     },
     {
       "fullPath": "presets/4.3/other/Mxyzptlk_Misc.txt",
-      "hash": "56f1721114c6d78905ff6af3c33274b7cf1e26152e540ad7ce493a65f9183b37",
-      "title": "ExpressLRS Passthrough Betaflight Settings",
+      "hash": "bca7ba8a517032a6beb2613e7174311d5095c3714ff87b120d3a09657ff20806",
+      "title": "Mxyzptlk_Misc",
       "firmware_version": [
         "3.5",
         "4.2",
@@ -3179,8 +3179,8 @@
     },
     {
       "fullPath": "presets/4.3/vtx/HGL_800mw_vtx.txt",
-      "hash": "fae0b32d9b2c63c43885bd2fd7a23cd76887c569523752829b843408f9505415",
-      "title": "TBS Unify Pro32 Nano - SA 2.1",
+      "hash": "f6f35eef509a127da028dd5d7a7e4e4829b4ca2fc9fd4d049a8a04194240f916",
+      "title": "HGL_800mw_vtx",
       "firmware_version": [
         "4.2",
         "4.3"
