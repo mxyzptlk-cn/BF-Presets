@@ -174,6 +174,7 @@
       "MinChan Kim",
       "mouseFPV",
       "MrAlucardDante",
+      "Mxyzptlk",
       "NemesisXB",
       "Sjoer van der Ploeg",
       "sugarK",
@@ -864,6 +865,21 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/osd/Mxyzptlk_Analog.txt",
+      "hash": "4f67ac2d260f879b09411bff9d7b6345c231b95e6186c45191898ce0706d89d4",
+      "title": "UAV Tech - Analog",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "analog"
+      ],
+      "author": "Mxyzptlk",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/osd/UAV_tech_Analog.txt",
       "hash": "b304bd4f3d0e6ab42840badced7e07847ca654c5fd048dba8c53b96128788763",
       "title": "UAV Tech - Analog",
@@ -966,6 +982,26 @@
         "Garban"
       ],
       "author": "Garban",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/other/Mxyzptlk_Misc.txt",
+      "hash": "56f1721114c6d78905ff6af3c33274b7cf1e26152e540ad7ce493a65f9183b37",
+      "title": "ExpressLRS Passthrough Betaflight Settings",
+      "firmware_version": [
+        "3.5",
+        "4.2",
+        "4.3"
+      ],
+      "status": "OFFICIAL",
+      "category": "OTHER",
+      "keywords": [
+        "ELRS",
+        "Passthrough",
+        "Configure",
+        "utility"
+      ],
+      "author": "Mxyzptlk",
       "priority": 0
     },
     {
@@ -3139,6 +3175,23 @@
         "karatebrot"
       ],
       "author": "sugarK",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.3/vtx/HGL_800mw_vtx.txt",
+      "hash": "fae0b32d9b2c63c43885bd2fd7a23cd76887c569523752829b843408f9505415",
+      "title": "TBS Unify Pro32 Nano - SA 2.1",
+      "firmware_version": [
+        "4.2",
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table"
+      ],
+      "author": "Mxyzptlk",
       "priority": 1000000
     },
     {
