@@ -17,3 +17,4 @@ map TAER1234
 set serialrx_provider = CRSF
 set yaw_motors_reversed = ON
 set small_angle = 180
+set report_cell_voltage = ON
